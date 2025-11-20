@@ -1,0 +1,12 @@
+boat:
+  name: "Aurora II"
+  mmsi: 123456789
+location:
+  lat: -25.5241
+  lon: -48.3020
+pilot:
+  default_mode: wind
+  target_twa: 145
+anchor:
+  radius_m: 50
+  alarm_sound: true

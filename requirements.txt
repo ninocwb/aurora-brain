@@ -1,0 +1,12 @@
+```txt
+asyncio-mqtt>=0.16
+websockets>=12.0
+pyyaml>=6.0
+paho-mqtt>=2.0
+influxdb-client>=1.36
+prometheus-client>=0.17
+flask>=3.0
+python-can>=4.2
+watchdog>=3.0
+pynmea2>=1.18
+cantools>=39.0
